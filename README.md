@@ -1,8 +1,10 @@
 Actors-and-Movies
 =================
 
-Asks for 2 actors and tells you how are they related
-
 Assignment 2 on Staford's CS107 course
 
-Only works in linux because of how it deals with memory.
+Asks for 2 actors and tells you how are they related
+
+Only works on a linux based OS because of how it deals with memory.
+
+It includes the complete (but kind of unupdated IMDB database), so it will take a while to download it.
